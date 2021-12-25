@@ -72,3 +72,10 @@ Django Unchained Waltz, er.
 Nota Bene. Objective C ist eine Extension on top of C.
 Man kann den Code beliebig Mischen.
 Und so verstand Siemens einfach nur #Bahnhof, lol ... nicht - Schluck!
+
+# JukeBox 
+
+Bitt erst nach Zahlung PLAY klicken, ja? Und Qualität MAXIMAL so 200 kb/s.
+Und nicht alle auf einmal. Sonst stellen wir Ampeln auf. VON SIEMENS!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aUr88UhVlaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
