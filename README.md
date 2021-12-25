@@ -1,32 +1,29 @@
-## Welcome to GitHub Pages
+# I18NORG World's only real and exclusive nongovernmental Internationalisation Organisation reali18N.ORG
 
-You can use the [editor on GitHub](https://github.com/schnoddelbotz/I18N/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+All content provided somewhat by [MASTERCLASS](https://masterclass.com).
+Ask for Zimmer.
+Fragen Sie nach einem Raum.
+Chiedi per un spazzio.
+Ask for a Space.
+Space Bar.
+Play SpaceQuest IV (roman for four, which is 4).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Now. Original Content here:
 
-### Markdown
+## OC1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## OC2
 
-```markdown
-Syntax highlighted code block
+## OC3
 
-# Header 1
-## Header 2
-### Header 3
+## Remarks
 
-- Bulleted
-- List
+When referencing this Epos in your scientic doctor studies,
+it is strictly **MANDATORY** (Mann, der Torry!) ... aehm,
+eben: OC1, #OC1 oder ausgeschrieben #OriginalContentEins oder 1.
+Sie verstehen #SemanticWeb? Das ist schön [fuer sie](fuersie.de).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Happy holidays, falls es gerade passen sollte?
 
 ### Jekyll Themes
 
